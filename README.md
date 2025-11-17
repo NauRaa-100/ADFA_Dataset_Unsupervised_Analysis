@@ -181,6 +181,7 @@ This note is also displayed inside the UI.
 ##  Author
 
 **NauRaa**
+
 Data Scientist & AI Engineer
 
 ---
